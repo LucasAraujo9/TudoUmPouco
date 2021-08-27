@@ -1,0 +1,7 @@
+D:\Area de Trabalho\Projetos GitHub\ALURA\Praticando\TestandoConhecimento\TudoUmPouco\bin\Debug\TudoUmPouco.exe.config
+D:\Area de Trabalho\Projetos GitHub\ALURA\Praticando\TestandoConhecimento\TudoUmPouco\bin\Debug\TudoUmPouco.exe
+D:\Area de Trabalho\Projetos GitHub\ALURA\Praticando\TestandoConhecimento\TudoUmPouco\bin\Debug\TudoUmPouco.pdb
+D:\Area de Trabalho\Projetos GitHub\ALURA\Praticando\TestandoConhecimento\TudoUmPouco\obj\Debug\TudoUmPouco.csprojAssemblyReference.cache
+D:\Area de Trabalho\Projetos GitHub\ALURA\Praticando\TestandoConhecimento\TudoUmPouco\obj\Debug\TudoUmPouco.csproj.CoreCompileInputs.cache
+D:\Area de Trabalho\Projetos GitHub\ALURA\Praticando\TestandoConhecimento\TudoUmPouco\obj\Debug\TudoUmPouco.exe
+D:\Area de Trabalho\Projetos GitHub\ALURA\Praticando\TestandoConhecimento\TudoUmPouco\obj\Debug\TudoUmPouco.pdb
